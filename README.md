@@ -1,4 +1,4 @@
-# Spectral Distribution Alignment for Enhanced Generalization in Regression
+# [Spectral Distribution Alignment for Enhanced Generalization in Regression](https://link.springer.com/chapter/10.1007/978-3-032-06106-5_16)
 
 This project has been accepted by ECMLPKDD 2025
 
@@ -13,4 +13,18 @@ BiwiKinect can be acquired from [Kaggle](https://www.kaggle.com/datasets/kmader/
 ## Run
 
 We provide ```main.sh``` file in each folder.
+
+## Citation
+
+```
+@inproceedings{guo2025spectral,
+  title={Spectral Distribution Alignment for Enhanced Generalization in Regression},
+  author={Guo, Kaiyu and Wang, Zijian and Lovell, Brian C and Baktashmotlagh, Mahsa},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={272--288},
+  year={2025},
+  organization={Springer}
+}
+
+```
 
